@@ -805,21 +805,21 @@ else:
 
 
 correct_feedback = [
-    "Good job, meow!",
-    "Meow meow, that’s correct!",
-    "Well done meow!",  
+    "Good job!",
+    "Meow, that’s correct!",
+    "Well done!",  
     "Nice one!",
     "Correct, nya.",
-    "Keep it up, meow !",
-    "You’re my favorite Kitty !!"
+    "Keep it up, meow!",
+    "You’re my favorite!"
 ]
 
 incorrect_feedback = [
-    "Oops, Are you a muggle? Try again meow.",
+    "Oops, Are you a muggle?",
     "Wrong meow..",
-    "That’s muggle level..",
+    "That’s.... a no.",
     "Nya meow",
-    "Close, but not really meow..",
+    "Close, but not really.",
     "Muggle alert!",
     "EWW!"
 ]
@@ -899,12 +899,12 @@ def show_results():
 
     percent = (score / total_questions) * 100
     final_statements = [
-        "Every kitty starts somewhere meow!",
-        "Meow! You're learning steadily",
-        "You're making good progress meow!",
+        "Every kitty starts somewhere!",
+        "You're learning steadily!",
+        "You're making great progress!",
         "You're almost like a clever cat meow!",
-        "OMG meow, You're almost a Master Level! Looks like mating season is around the corner meow!",
-        "Fur real ? You're the Bestest Kitty around! MEOW! I want to have your Kittens meow!"
+        "OMG, You're almost a Master Level! Looks like mating season is around the corner nyah!",
+        "You're the Bestest Kitty around! I want to have your Kittens mew!"
     ]
 
     if percent < 20:
