@@ -816,13 +816,12 @@ correct_feedback = [
 
 incorrect_feedback = [
     "Oops, Are you a muggle? Try again meow.",
-    "Wrong answer, meow..",
+    "Wrong meow..",
     "That’s muggle level..",
-    "Oh no, wow..no",
+    "Nya meow",
     "Close, but not really meow..",
     "Muggle alert!",
-    "EWW!",
-    "Excuse ME! That's a NO."
+    "EWW!"
 ]
 
 
@@ -879,7 +878,7 @@ def show_question():
             st.success(message)
         else:
             message = random.choice(incorrect_feedback)
-            st.error(f"{message} The correct answer is {q['answer']}.")
+            st.error(f"{message}  \n The correct answer is {q['answer']}.")
 
         if idx == len(quiz) - 1:
             st.session_state.show_feedback = False
