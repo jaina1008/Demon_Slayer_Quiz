@@ -177,3 +177,597 @@ advanced_quiz = [
     {"question": "Which character was said to most closely resemble Yoriichi in spirit and combat style?", "options": ["Tanjiro Kamado", "Giyu Tomioka", "Kyojuro Rengoku", "Muichiro Tokito"], "answer": "Tanjiro Kamado"},
     {"question": "What family heirloom inspired Tanjiro’s breathing transformation?", "options": ["The Dance of the Fire God", "Wisteria crest", "Blue spider lily scroll", "Kamado crest"], "answer": "The Dance of the Fire God"}
 ]
+
+god_level_quiz = [
+    {
+        "question": "What is the kanji meaning and symbolic significance of Yoriichi Tsugikuni’s hanafuda earrings?",
+        "options": [
+            "Sun and Moon; symbolizing life and death balance",
+            "Two dragons; representing strength and duality",
+            "Sun; representing the original source of all Breathing Styles",
+            "Cherry blossoms; symbolizing fleeting life"
+        ],
+        "answer": "Sun; representing the original source of all Breathing Styles"
+    },
+    {
+        "question": "Mechanically, what physiological change occurs that causes the Demon Slayer Mark to shorten the user’s lifespan?",
+        "options": [
+            "Accelerated cellular metabolism and energy expenditure",
+            "Immune system compromise due to overbreathing",
+            "Mutation of blood cells by the mark’s energy",
+            "Brain overload from enhanced sensory input"
+        ],
+        "answer": "Accelerated cellular metabolism and energy expenditure"
+    },
+    {
+        "question": "Which breathing styles share identical root movements derived from [translate:日輪] Sun Breathing, and which diverge completely?",
+        "options": [
+            "Flame, Love, and Serpent Breathing share root movements; Mist Breathing diverges",
+            "Water, Thunder, and Beast Breathing share root movements; Flame diverges",
+            "Flame, Water, and Wind Breathing share root movements; Love diverges",
+            "Love, Mist, and Sound Breathing share root movements; Serpent diverges"
+        ],
+        "answer": "Flame, Love, and Serpent Breathing share root movements; Mist Breathing diverges"
+    },
+    {
+        "question": "How many times did Muzan Kibutsuji clone himself during the final battle before his death?",
+        "options": [
+            "2 times",
+            "5 times",
+            "7 times",
+            "10 times"
+        ],
+        "answer": "7 times"
+    },
+    {
+        "question": "What is the full name and notable personality traits of the swordsmith who reforges Tanjiro’s blade?",
+        "options": [
+            "Hotaru Haganezuka; strict and obsessive about cleanliness",
+            "Tetsuo Haganezuka; jovial but forgetful",
+            "Hotaru Haganezuka; eccentric, temperamental, but highly skilled",
+            "Sakonji Urokodaki; wise and patient mentor"
+        ],
+        "answer": "Hotaru Haganezuka; eccentric, temperamental, but highly skilled"
+    },
+    {
+        "question": "Explain how the melody played by the Drum Demon (Kyogai) enhances his Blood Demon Art’s power?",
+        "options": [
+            "The melody manipulates spatial dimensions to trap opponents",
+            "Playing different rhythms changes his strength and attack patterns",
+            "Specific drumbeats emit sound waves that generate shockwaves",
+            "The melody induces illusions that weaken enemy resolve"
+        ],
+        "answer": "The melody manipulates spatial dimensions to trap opponents"
+    },
+    {
+        "question": "Which Hashira’s breathing style incorporates techniques inspired explicitly by traditional Taishō-era martial arts?",
+        "options": [
+            "Sanemi Shinazugawa’s Wind Breathing",
+            "Tengen Uzui’s Sound Breathing",
+            "Muichiro Tokito’s Mist Breathing",
+            "Kyojuro Rengoku’s Flame Breathing"
+        ],
+        "answer": "Sanemi Shinazugawa’s Wind Breathing"
+    },
+    {
+        "question": "Name the demon classification system invented by Muzan among the Twelve Kizuki including extinct ranks mentioned only in databooks.",
+        "options": [
+            "Upper Moon, Lower Moon, Shadow Clan",
+            "Upper Moon Six, Forgotten Moon, Scripted Moon",
+            "Upper Moon, Lower Moon, Former Moon",
+            "Kizuki Alpha, Beta, and Gamma series"
+        ],
+        "answer": "Upper Moon, Lower Moon, Former Moon"
+    },
+    {
+        "question": "Describe the historical and symbolic significance of the Wisteria flower in Demon Slayer lore.",
+        "options": [
+            "Signifies protection due to its poisonous properties against demons",
+            "Represents fleeting happiness and lost loved ones",
+            "Symbolizes the bond between Tanjiro and Nezuko",
+            "Associated with the Demon Slayer Corps’ origin mythology"
+        ],
+        "answer": "Signifies protection due to its poisonous properties against demons"
+    },
+    {
+        "question": "Outline Yushiro’s timeline from human to demon and explain how his creation differs from normal demons.",
+        "options": [
+            "Volunteered to become a demon; retains humanity via Tamayo’s medicine",
+            "Forced transformation by Muzan; lacks regeneration capabilities",
+            "Born a demon due to Muzan’s bloodline; can use sunlight",
+            "Experimented on by Kagaya; gains unique breathing forms"
+        ],
+        "answer": "Volunteered to become a demon; retains humanity via Tamayo’s medicine"
+    },
+    {
+        "question": "What exact event caused the Demon Slayer Corps to shift their hierarchy from Captains to Hashira?",
+        "options": [
+            "The emergence of the Upper Moons",
+            "Kagaya Ubuyashiki’s reformations post World War I",
+            "Death of the original twelve Pillars",
+            "Tanjiro’s rise as a symbol of hope"
+        ],
+        "answer": "Kagaya Ubuyashiki’s reformations post World War I"
+    },
+    {
+        "question": "In the lore, which classical Japanese myth is the Sun Breathing technique most closely related to?",
+        "options": [
+            "Amaterasu, the sun goddess",
+            "Susanoo, god of storms",
+            "Tsukuyomi, the moon god",
+            "Yamato Takeru, the warrior prince"
+        ],
+        "answer": "Amaterasu, the sun goddess"
+    },
+    {
+        "question": "What mental state must a Demon Slayer enter to activate the Transparent World and gain enhanced perception?",
+        "options": [
+            "Selfless State",
+            "Perfect Focus State",
+            "Total Concentration Breathing",
+            "Breath of the Void"
+        ],
+        "answer": "Selfless State"
+    },
+    {
+        "question": "How did Gyomei Himejima lose his sight according to manga lore?",
+        "options": [
+            "In a fierce battle with a demon",
+            "Due to a childhood high fever",
+            "Born blind",
+            "Curse from Muzan"
+        ],
+        "answer": "Due to a childhood high fever"
+    },
+    {
+        "question": "What dark history is connected to Daki’s original human name, Ume?",
+        "options": [
+            "Named after her mother’s illness",
+            "Name means 'beautiful flower'",
+            "Name bears a royal lineage",
+            "Derived from a demon clan"
+        ],
+        "answer": "Named after her mother’s illness"
+    },
+    {
+        "question": "What rare blood property does Sanemi Shinazugawa possess that is advantageous against demons?",
+        "options": [
+            "Marechi blood that makes demons dizzy",
+            "Immunity to demon toxins",
+            "Heals rapidly from injuries",
+            "Enhanced regeneration"
+        ],
+        "answer": "Marechi blood that makes demons dizzy"
+    },
+    {
+        "question": "What physical attribute do Muzan Kibutsuji and Sanemi Shinazugawa coincidentally share?",
+        "options": [
+            "Same height and weight",
+            "Same eye color",
+            "Identical scars",
+            "Same hair color"
+        ],
+        "answer": "Same height and weight"
+    },
+    {
+        "question": "What hidden family trait affects the Ubuyashiki lineage?",
+        "options": [
+            "Facial decay and shortened lifespan",
+            "Blindness in male heirs",
+            "Loss of voice in women",
+            "Cursed with inability to use breathing"
+        ],
+        "answer": "Facial decay and shortened lifespan"
+    },
+    {
+        "question": "What unique ability does Tanjiro Kamado’s mother possess in an unshown backstory?",
+        "options": [
+            "Defeated a wild boar by headbutting it",
+            "Had the potential for Sun Breathing",
+            "Created the first Nichirin Blade",
+            "Was a Hashira before death"
+        ],
+        "answer": "Defeated a wild boar by headbutting it"
+    },
+    {
+        "question": "How does the Blue Spider Lily contribute to the story’s lore regarding Muzan Kibutsuji?",
+        "options": [
+            "It blooms seldom and affects his immortality",
+            "It is the source of demon power",
+            "It is the key to demon regeneration",
+            "It causes demon weakness to sunlight"
+        ],
+        "answer": "It blooms seldom and affects his immortality"
+    },
+    {
+        "question": "What was the original purpose of the Kasugai Crows in the Demon Slayer Corps?",
+        "options": [
+            "Deliver mission instructions",
+            "Serve as combat companions",
+            "Form bonds with demon slayers",
+            "Track demons’ locations"
+        ],
+        "answer": "Deliver mission instructions"
+    },
+    {
+        "question": "Which creator concept involved Inosuke’s Kasugai Crow constantly hiding due to his aggressive nature?",
+        "options": [
+            "His crow tries to avoid being eaten by Inosuke",
+            "The crow acts as a spy for Muzan",
+            "It is invisible only to Inosuke",
+            "It is the only crow controlled directly by Muzan"
+        ],
+        "answer": "His crow tries to avoid being eaten by Inosuke"
+    },
+    {
+        "question": "What is the reason Sakonji Urokodaki hides his face behind a mask?",
+        "options": [
+            "Mocked by demons for his kind face",
+            "Disfigured in battle",
+            "Family tradition",
+            "To hide his identity from Muzan"
+        ],
+        "answer": "Mocked by demons for his kind face"
+    },
+    {
+        "question": "Which Upper Moon demons are siblings sharing a close bond and tragic fate?",
+        "options": [
+            "Gyutaro and Daki",
+            "Akaza and Kokushibo",
+            "Doma and Rui",
+            "Hantengu and Gyokko"
+        ],
+        "answer": "Gyutaro and Daki"
+    },
+    {
+        "question": "In the final battle, which demon possessed the ability to split their body into multiple clones?",
+        "options": [
+            "Upper Moon Four Hantengu",
+            "Kokushibo",
+            "Akaza",
+            "Gyutaro"
+        ],
+        "answer": "Upper Moon Four Hantengu"
+    },
+    {
+        "question": "What unique property allows Nezuko Kamado to defy demon rules about sunlight?",
+        "options": [
+            "Inherited immunity due to special blood",
+            "Protected by a rare Wisteria flower toxin",
+            "She is partially human",
+            "Tamayo’s medicine effect"
+        ],
+        "answer": "Inherited immunity due to special blood"
+    },
+    {
+        "question": "Who is known as the ‘Stone Hashira’ and is unique among demon slayers for his blindness and physical power?",
+        "options": [
+            "Gyomei Himejima",
+            "Sanemi Shinazugawa",
+            "Tengen Uzui",
+            "Obanai Iguro"
+        ],
+        "answer": "Gyomei Himejima"
+    },
+    {
+        "question": "What is the reason behind Zenitsu Agatsuma being mostly self-taught in Thunder Breathing?",
+        "options": [
+            "His master abandoned training",
+            "He developed it after surviving a betrayal",
+            "Training was cut short due to an injury",
+            "It was passed down only orally"
+        ],
+        "answer": "He developed it after surviving a betrayal"
+    },
+    {
+        "question": "Which breathing style’s musical theme inspired Tengen Uzui’s Sound Breathing?",
+        "options": [
+            "Traditional Japanese festival drumming",
+            "Western classical music",
+            "Modern pop music",
+            "Nature sounds"
+        ],
+        "answer": "Traditional Japanese festival drumming"
+    },
+    {
+        "question": "Who served as the inspiration and mentor for Tanjiro’s Water Breathing technique?",
+        "options": [
+            "Sakonji Urokodaki",
+            "Giyu Tomioka",
+            "Kyojuro Rengoku",
+            "Zenitsu Agatsuma"
+        ],
+        "answer": "Sakonji Urokodaki"
+    },
+    {
+        "question": "What is the name of the village where the Demon Slayer swordsmiths reside?",
+        "options": [
+            "Mount Natagumo",
+            "Mount Sagiri",
+            "Swordsmith Village",
+            "Taisho Village"
+        ],
+        "answer": "Mount Natagumo"
+    },
+    {
+        "question": "Which demon is notorious for his cult following and masochistic tendencies?",
+        "options": [
+            "Doma",
+            "Akaza",
+            "Kokushibo",
+            "Gyutaro"
+        ],
+        "answer": "Doma"
+    },
+    {
+        "question": "What hidden duality does Zenitsu Agatsuma’s boar mask wear signify?",
+        "options": [
+            "His wild and gentle nature",
+            "Family lineage and rebellion",
+            "Stealth and charge",
+            "Fear and courage"
+        ],
+        "answer": "His wild and gentle nature"
+    },
+    {
+        "question": "Which demon’s body was said to disintegrate peacefully due to acceptance rather than pain?",
+        "options": [
+            "Akaza",
+            "Rui",
+            "Doma",
+            "Gyokko"
+        ],
+        "answer": "Akaza"
+    },
+    {
+        "question": "What weapon does Gyomei Himejima wield that differs from other Hashira?",
+        "options": [
+            "Flail and axe chained together",
+            "Dual katanas",
+            "Spear and shield",
+            "Bow and arrows"
+        ],
+        "answer": "Flail and axe chained together"
+    },
+    {
+        "question": "Which Hashira holds the rank of the youngest ever introduced in the series?",
+        "options": [
+            "Muichiro Tokito",
+            "Kanao Tsuyuri",
+            "Zenitsu Agatsuma",
+            "Inosuke Hashibira"
+        ],
+        "answer": "Muichiro Tokito"
+    },
+    {
+        "question": "In the manga epilogue, which two characters reincarnate together in modern Japan?",
+        "options": [
+            "Obanai Iguro and Mitsuri Kanroji",
+            "Tanjiro Kamado and Nezuko Kamado",
+            "Giyu Tomioka and Shinobu Kocho",
+            "Sanemi Shinazugawa and Genya"
+        ],
+        "answer": "Obanai Iguro and Mitsuri Kanroji"
+    },
+    {
+        "question": "Who saved Kagaya Ubuyashiki’s daughters Hinaki and Nichika, strengthening their bond through adversity?",
+        "options": [
+            "Their mother",
+            "Tanjiro Kamado",
+            "Kagaya Ubuyashiki himself",
+            "Gyomei Himejima"
+        ],
+        "answer": "Kagaya Ubuyashiki himself"
+    },
+    {
+        "question": "What technique did Yoriichi Tsugikuni use that Muzan Kibutsuji famously could not counter?",
+        "options": [
+            "Thirteenth Form of Sun Breathing",
+            "Transparent World",
+            "Crimson Blade Slash",
+            "Hinokami Kagura Final Form"
+        ],
+        "answer": "Thirteenth Form of Sun Breathing"
+    },
+    {
+        "question": "Which demon kills Shinobu Kocho in the manga’s battle arcs?",
+        "options": [
+            "Doma",
+            "Akaza",
+            "Kokushibo",
+            "Gyutaro"
+        ],
+        "answer": "Doma"
+    },
+    {
+        "question": "What is the name of the rarity classification for humans with blood more appealing yet dizzying to demons, like Sanemi Shinazugawa?",
+        "options": [
+            "Marechi",
+            "Himechi",
+            "Kizuki",
+            "Hashira Blood"
+        ],
+        "answer": "Marechi"
+    },
+    {
+        "question": "Which Hashira is known for obsession with cleanliness and order, linked to his snake breathing style?",
+        "options": [
+            "Obanai Iguro",
+            "Sanemi Shinazugawa",
+            "Gyomei Himejima",
+            "Tengen Uzui"
+        ],
+        "answer": "Obanai Iguro"
+    },
+    {
+        "question": "What is the formal name given to the Demon Slayer Corps’ final rigorous test?",
+        "options": [
+            "Final Selection",
+            "Hashira Trial",
+            "Breath Challenge",
+            "Night Hunt"
+        ],
+        "answer": "Final Selection"
+    },
+    {
+        "question": "What rare flower blooms only for a few dozen minutes annually and factors into Muzan’s plans?",
+        "options": [
+            "Blue Spider Lily",
+            "Wisteria",
+            "Cherry Blossom",
+            "Moon Lily"
+        ],
+        "answer": "Blue Spider Lily"
+    },
+    {
+        "question": "Who originally developed Tamayo’s anti-demon medicine?",
+        "options": [
+            "Tamayo herself",
+            "Yushiro",
+            "Kagaya Ubuyashiki",
+            "Sakonji Urokodaki"
+        ],
+        "answer": "Tamayo herself"
+    },
+    {
+        "question": "What unique bond do Hashira Mitsuri Kanroji and Obanai Iguro share?",
+        "options": [
+            "Romantic relationship",
+            "Siblings",
+            "Teacher and student",
+            "Fellow beasts at training"
+        ],
+        "answer": "Romantic relationship"
+    },
+    {
+        "question": "Which Hashira wears the distinctive boar mask as a combat identity?",
+        "options": [
+            "Inosuke Hashibira",
+            "Zenitsu Agatsuma",
+            "Sanemi Shinazugawa",
+            "Kanao Tsuyuri"
+        ],
+        "answer": "Inosuke Hashibira"
+    },
+    {
+        "question": "What is the hidden cultural reference behind the Nishiran Blade color changes when wielded by different demon slayers?",
+        "options": [
+            "Connection to the wielder’s spirit and strength",
+            "Symbolizing elemental affinity",
+            "Random forged steel impurities",
+            "Signify rank within the Corps"
+        ],
+        "answer": "Connection to the wielder’s spirit and strength"
+    },
+    {
+        "question": "What is the origin of the ‘Dance of the Fire God’ technique Tanjiro uses?",
+        "options": [
+            "Passed down uniquely in Kamado family",
+            "A lost form of Sun Breathing",
+            "Derived from an ancient flame dance ceremony",
+            "Learned from Kyojuro Rengoku"
+        ],
+        "answer": "A lost form of Sun Breathing"
+    },
+    {
+        "question": "Who is the demon that controls the space and dimensions inside the Infinity Castle?",
+        "options": [
+            "Nakime",
+            "Kokushibo",
+            "Muzan Kibutsuji",
+            "Gyutaro"
+        ],
+        "answer": "Nakime"
+    },
+    {
+        "question": "Which form of breathing does not derive from Sun Breathing and stands uniquely?",
+        "options": [
+            "Mist Breathing",
+            "Flame Breathing",
+            "Love Breathing",
+            "Serpent Breathing"
+        ],
+        "answer": "Mist Breathing"
+    },
+    {
+        "question": "How many times did Yoriichi Tsugikuni confront Muzan Kibutsuji in combat?",
+        "options": [
+            "Once",
+            "Twice",
+            "Three times",
+            "Never"
+        ],
+        "answer": "Twice"
+    },
+    {
+        "question": "What ancient weapon is believed to be the inspiration behind Nichirin Blades?",
+        "options": [
+            "Katana forged using sunlight-infused ore",
+            "Ancient legendary spear",
+            "Sacred flame dagger",
+            "Samurai ancestral blade"
+        ],
+        "answer": "Katana forged using sunlight-infused ore"
+    },
+    {
+        "question": "What is the nature of demons’ inability to fully digest humans in Demon Slayer?",
+        "options": [
+            "They consume but later regurgitate humans",
+            "They absorb only human blood",
+            "They are allergic to human flesh",
+            "They can only feed on demon corpses"
+        ],
+        "answer": "They consume but later regurgitate humans"
+    },
+    {
+        "question": "What was the original inspiration for the naming of the Twelve Kizuki?",
+        "options": [
+            "Moon phases",
+            "Twelve zodiac animals",
+            "Twelve demon lords",
+            "Twelve pillars of darkness"
+        ],
+        "answer": "Moon phases"
+    },
+    {
+        "question": "Which breathing technique involves synchronizing heart rhythm with sword movements?",
+        "options": [
+            "Flame Breathing",
+            "Sound Breathing",
+            "Water Breathing",
+            "Love Breathing"
+        ],
+        "answer": "Flame Breathing"
+    },
+    {
+        "question": "Who is the mysterious character that taught the Hinokami Kagura dance to Tanjiro’s family?",
+        "options": [
+            "Tanjuro Kamado",
+            "Urokodaki",
+            "Kagaya Ubuyashiki",
+            "Tamayo"
+        ],
+        "answer": "Tanjuro Kamado"
+    },
+    {
+        "question": "Which demon slayer was known to have a secret habit of blowing soap bubbles in Butterfly Mansion?",
+        "options": [
+            "Kanao Tsuyuri",
+            "Mitsuri Kanroji",
+            "Shinobu Kocho",
+            "Kagaya Ubuyashiki"
+        ],
+        "answer": "Kanao Tsuyuri"
+    },
+    {
+        "question": "What unique ability does Zenitsu’s sparrow, Chuntaro, famously have?",
+        "options": [
+            "Warning him of danger",
+            "Guiding him to enemies",
+            "Delivering messages",
+            "Disappearing when scared"
+        ],
+        "answer": "Warning him of danger"
+    }
+    # ... Continue creating additional 10-20 questions similarly for a full 60-item set if needed.
+]
